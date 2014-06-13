@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.pluck ${1:list}, ${2:'propertyName'}
+_.pluck(${1:list}, ${2:'propertyName'})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_pluck</tabTrigger>

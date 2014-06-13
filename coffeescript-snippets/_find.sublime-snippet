@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.find ${1:list}, (${2:value}, key, list)->
-	${3:# body}
+_.find(${1:list}, (${2:value}, key, list) -> ${3:# body})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_find</tabTrigger>

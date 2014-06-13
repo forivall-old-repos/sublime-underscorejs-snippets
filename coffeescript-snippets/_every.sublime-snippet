@@ -1,8 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.every ${1:list}, ${2:(${3:value}, i, list)->
-	${4:value == someOtherValue}
-}
+_.every(${1:list}, ${2:(${3:value}, i, list) -> ${4:value == someOtherValue}})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_every</tabTrigger>

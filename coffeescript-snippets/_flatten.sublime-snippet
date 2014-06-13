@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.flatten ${1:array}${2:, shallow}
+_.flatten(${1:array}${2:, shallow})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_flatten</tabTrigger>

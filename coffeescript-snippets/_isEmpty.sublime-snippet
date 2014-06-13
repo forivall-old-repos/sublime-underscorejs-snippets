@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.isEmpty ${1:object}
+_.isEmpty(${1:object})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_isEmpty</tabTrigger>

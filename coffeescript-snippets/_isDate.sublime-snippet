@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.isDate ${1:object}
+_.isDate(${1:object})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_isDate</tabTrigger>

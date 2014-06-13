@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.difference ${1:array}, ${2:values}
+_.difference(${1:array}, ${2:values})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_difference</tabTrigger>

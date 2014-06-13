@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.invoke ${1:list}, ${2:methodName}${3:, arguments}
+_.invoke(${1:list}, ${2:methodName}${3:, arguments})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_invoke</tabTrigger>

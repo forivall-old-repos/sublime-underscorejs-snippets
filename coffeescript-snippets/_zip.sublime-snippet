@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.zip ${1:array1}${2:, array2}
+_.zip(${1:array1}${2:, array2})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_zip</tabTrigger>

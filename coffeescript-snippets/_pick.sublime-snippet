@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.pick ${1:object}${2:, keys}
+_.pick(${1:object}${2:, keys})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_pick</tabTrigger>

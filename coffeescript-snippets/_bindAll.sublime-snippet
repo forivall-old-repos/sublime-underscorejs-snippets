@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.bindAll ${1:object}, ${2:methodNames}
+_.bindAll(${1:object}, ${2:methodNames})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_bindAll</tabTrigger>

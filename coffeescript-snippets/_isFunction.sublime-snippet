@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.isFunction ${1:object}
+_.isFunction(${1:object})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_isFunction</tabTrigger>

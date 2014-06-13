@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.extend ${1:destination}, ${2:sources}
+_.extend(${1:destination}, ${2:sources})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_extend</tabTrigger>

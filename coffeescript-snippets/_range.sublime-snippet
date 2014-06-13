@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.range ${1:start, }${2:stop}${3:, step}
+_.range(${1:start, }${2:stop}${3:, step})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_range</tabTrigger>

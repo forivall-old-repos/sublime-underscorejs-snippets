@@ -1,8 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.reduce ${1:list}, (memo, ${3:value}, key, list)->
-    ${4:memo + value.something}
-, ${2:memo}
+_.reduce(${1:list}, ((memo, ${3:value}, key, list) -> ${4:memo + value.something}), ${2:memo})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_reduce</tabTrigger>

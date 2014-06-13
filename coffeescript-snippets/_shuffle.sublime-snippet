@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.shuffle ${1:list}
+_.shuffle(${1:list})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_shuffle</tabTrigger>

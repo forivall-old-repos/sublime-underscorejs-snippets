@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.partial ${1:function}, ${2:arguments}
+_.partial(${1:function}, ${2:arguments})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_partial</tabTrigger>

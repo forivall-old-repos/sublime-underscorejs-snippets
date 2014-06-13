@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.random ${1:min, }${2:max}
+_.random(${1:min, }${2:max})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_random</tabTrigger>

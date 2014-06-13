@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.uniqueId ${1:prefix}
+_.uniqueId(${1:prefix})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_uniqueId</tabTrigger>

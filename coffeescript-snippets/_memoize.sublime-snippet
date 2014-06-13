@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.memoize ${1:(arg)->
+_.memoize ${1:(arg) ->
     ${3:# body}
 }${2:, hashFunction}
 ]]></content>

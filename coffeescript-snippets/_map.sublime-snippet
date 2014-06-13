@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.map ${1:list}, (${2:value}, key, list)->
-    ${3:# body}
+_.map ${1:list}, (${2:value}, key, list) -> ${3:}
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_map</tabTrigger>

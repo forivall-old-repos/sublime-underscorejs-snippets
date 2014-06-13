@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.countBy ${1:list}, (${3:value}, key, list)->
-	${4:# some_criterion_here}
+_.countBy(${1:list}, (${3:value}, key, list) -> ${4:# some_criterion_here})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_countBy</tabTrigger>

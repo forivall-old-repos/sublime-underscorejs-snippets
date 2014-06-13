@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.rest ${1:array}${2:, index}
+_.rest(${1:array}${2:, index})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_rest</tabTrigger>

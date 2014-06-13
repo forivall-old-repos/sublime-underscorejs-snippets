@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.first ${1:array}${2:, n}
+_.first(${1:array}${2:, n})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_first</tabTrigger>

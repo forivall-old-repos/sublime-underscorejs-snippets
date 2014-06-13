@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.invert ${1:object}
+_.invert(${1:object})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_invert</tabTrigger>

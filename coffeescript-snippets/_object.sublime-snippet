@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.object ${1:list}${2:, values}
+_.object(${1:list}${2:, values})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_object</tabTrigger>

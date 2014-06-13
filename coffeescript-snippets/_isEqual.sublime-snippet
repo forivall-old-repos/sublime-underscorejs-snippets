@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.isEqual ${1:value1}, ${2:value2}
+_.isEqual(${1:value1}, ${2:value2})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_isEqual</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.once ${1:(${2:arg})->
+_.once ${1:(${2:arg}) ->
     ${3:# body}
 }
 ]]></content>

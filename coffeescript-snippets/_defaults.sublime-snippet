@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.defaults ${1:object}, ${2:defaults}
+_.defaults(${1:object}, ${2:defaults})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_defaults</tabTrigger>

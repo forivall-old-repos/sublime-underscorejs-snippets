@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.isArray ${1:object}
+_.isArray(${1:object})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_isArray</tabTrigger>

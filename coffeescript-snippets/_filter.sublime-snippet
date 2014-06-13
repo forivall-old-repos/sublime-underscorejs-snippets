@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
-_.filter ${1:list}, (${2:value}, key, list)->
-    ${3:value == someOtherValue}
+_.filter(${1:list}, (${2:value}, key, list) -> ${3:value == someOtherValue})
 ]]></content>
 	<scope>source.coffee</scope>
 	<tabTrigger>_filter</tabTrigger>
